@@ -1,0 +1,16 @@
+                     Project 2
+1- What are some directories that you know in /
+2- Give 20 commands and what they are used for
+3- What is your favorite linux flavor and why?
+4- How would you check if a system is 32 or 64 bit?
+5- There is an application running on centos 7 and the application is slow, you login to the centos machine what would you be looking for ?
+6- How do you check the version of your os ?
+7- How do you check the memory on your system?
+8- We want to find out when last the system rebooted. How can we do that?
+9- What is a kernel ? how do you check the kernel version?
+10- When you type deloitte.com on the browser what happened?
+11- What is the difference between TCP and UDP ?
+12- What is a 3 way hanshake?
+13- What is the OSI model?
+14- What are some issues found on L1, L2, and L3 ?
+15- Why should we hired you?
